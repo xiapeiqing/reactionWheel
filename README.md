@@ -1,6 +1,12 @@
 # applications of reaction wheel
 Using conservation of angular momentum, the balance of a toy car is controlled by reaction-wheel or control moment gyroscopes widely used in spacecraft attitude control.
 
+<img src="doc/img/reactionWheelToyCar.png" width="600">
+
+<img src="doc/img/reaction_wheels_sts-109_eva2.jpg" width="600">
+
+https://www.nasa.gov/content/goddard/hubble-space-telescope-pointing-control-system
+
 Two gyros spinning in opposite direction cancel the uneven terrain caused roll change, which translates to undesired pitch control torque. 
 
 Major design steps are:
